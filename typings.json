@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "node": "registry:dt/node#7.0.0+20170310052549"
+  },
+  "dependencies": {
+    "debug": "registry:dt/debug#0.0.0+20160620211513",
+    "express": "registry:dt/express#4.0.0+20170118060322"
+  }
+}
